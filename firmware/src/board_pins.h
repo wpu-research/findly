@@ -1,17 +1,13 @@
 // Findy P0 — kart pin ataması. Pinler YALNIZCA burada tanımlanır (spec bölüm 3).
 // RAK4631 Arduino BSP (WisCore_RAK4631_Board) variant.h sembolik adları kullanılır.
-// DERLENMEDİ/DOĞRULANMADI: BSP'de bu adların varlığı ve değerleri donanım gelince kontrol edilecek.
+// Adların varlığı derlemede doğrulandı (12 Kasım 2026, variants/WisCore_RAK4631_Board/variant.h). Bağlantıların doğruluğu donanım gelince kontrol edilecek.
 #pragma once
 #include <Arduino.h>
 
 // ---- Ekran (GC9A01 yuvarlak TFT, WisBlock IO yuvası SPI'ı) ---------------------------------
 // SCK/MOSI: BSP varsayılan `SPI` nesnesi (PIN_SPI_SCK / PIN_SPI_MOSI). MISO kullanılmaz.
 // DOĞRULANACAK: BSP'de `SPI`nin WisBlock IO yuvası SPI'ına bağlı olduğu varsayılıyor.
-#ifdef WB_SPI_CS
-  #define FINDY_PIN_TFT_CS   WB_SPI_CS
-#else
-  #define FINDY_PIN_TFT_CS   PIN_SPI_SS   // DOĞRULANACAK: WB_SPI_CS adı BSP'de yoksa yedek
-#endif
+#define FINDY_PIN_TFT_CS     WB_SPI_CS    // variant.h: sabit (makro değil), pin 26
 #define FINDY_PIN_TFT_DC     WB_IO3
 #define FINDY_PIN_TFT_RST    WB_IO4
 #define FINDY_PIN_TFT_BL     WB_IO5       // PWM; modülde sürücü transistör yoksa N-MOSFET gerekir

@@ -1,5 +1,5 @@
 // Findy P0 — SX1262 (RadioLib). FindyLink fiziksel katmanı (spec bölüm 4): 869,525 MHz, BW125, SF8, CR4/5,
-// önek 8, CRC açık, sync word 0x46. DERLENMEDİ: RadioLib API adları sürüme göre değişebilir (hedef: 6.x/7.x).
+// önek 8, CRC açık, sync word 0x46. Derlendi (12 Kasım 2026, RadioLib 6.6.0), donanımda denenmedi.
 #include <RadioLib.h>
 #include <SPI.h>
 #include "board_pins.h"

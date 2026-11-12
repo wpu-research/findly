@@ -1,5 +1,5 @@
 // Findy P0 — BLE Nordic UART Service (Bluefruit, nRF52 BSP içinde), satır tabanlı komutlar (spec bölüm 8).
-// DERLENMEDİ: Bluefruit API adları (BLEUart, Bluefruit.Periph, Advertising) Adafruit nRF52 örneklerinden hatırlanıyor.
+// Derlendi (12 Kasım 2026), donanımda denenmedi. Bluefruit API adları (BLEUart, Bluefruit.Periph, Advertising) Adafruit nRF52 örneklerinden hatırlanıyor.
 //
 // Protokol (bu sürümde kendi kararım; spec yalnızca komut adlarını verir):
 //   Telefon -> cihaz (satır sonu '\n'):  NAME <ad> | STATUS | LOG ON|OFF | CFG <k> <v> | FRIEND <id> <ad>

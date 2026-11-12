@@ -9,10 +9,10 @@ alınmadı. Bu yazılım yalnızca PC'de birim testlerle ve kod incelemesiyle s�
 | Parça | Durum |
 |---|---|
 | `lib/findy_core` (geo, packet, slots, group, compass, button, power_model, crypto_ref) | PC'de g++ ile derlendi, 33 birim testi geçti (RFC 8439 ve BLAKE2s vektörleri dahil) |
-| `src/*` (donanım katmanı) | **Derlenmedi.** Bu makinede RAK nRF52 çekirdeği ve kütüphaneler yok. Yalnızca `main.cpp`, sahte `Arduino.h` ile sözdizimi/arayüz uyumu için `-fsyntax-only` denendi; RadioLib/GFX/SparkFun/Bluefruit/LittleFS çağrılarının hiçbiri derlenmedi |
+| `src/*` (donanım katmanı) | **Derlendi, donanımda çalıştırılmadı.** 12 Kasım 2026: `pio run -e rak4631` başarılı; kaynak kodda derleme hatası çıkmadı. Bellek kullanımı (derleyici raporu): RAM 73 292 / 248 832 bayt (%29,5), Flash 249 360 / 815 104 bayt (%30,6). RAM rakamı ekran tamponunu (115 200 bayt, çalışma anında ayrılır) içermez. Derlenmesi, çağrıların donanımda doğru çalıştığını göstermez |
 | Pin atamaları, I2C adresleri, register değerleri | Belgeden/hafızadan; kod içinde `DOĞRULANACAK` ile işaretli |
 | Menzil, pil ömrü, GNSS zaman doğruluğu, RX/TX akımları | **Ölçülmedi.** `power_model` yalnızca veri sayfası tahminlerini hesaplar |
-| `platformio.ini` | Hiç çalıştırılmadı (PlatformIO yok); `env:native` özellikle denenmedi |
+| `platformio.ini` | `env:rak4631` çalıştırıldı ve derledi (12 Kasım 2026). `env:native` denenmedi |
 
 ## Klasör yapısı
 
@@ -35,7 +35,13 @@ Yalnızca `g++` (C++17) gerekir; AddressSanitizer + UBSan açık derlenir. Çık
 `FINDY_TEST_OUT=<dizin>` ile çıktı dizini verilebilir (varsayılan geçici dizin). PlatformIO `env:native`
 tanımı vardır ama denenmemiştir; esas yol betiktir.
 
-## Hedef derlemesi ve yükleme (denenmedi)
+## Hedef derlemesi (12 Kasım 2026'da denendi) ve yükleme (denenmedi)
+
+PlatformIO'nun `nordicnrf52` platformunda RAK4631 kart tanımı **yoktur**. Bu yüzden iki dosya grubu
+proje içine alındı (kaynak ve sürüm: `variants/KAYNAK.md`): `boards/wiscore_rak4631.json` ve
+`variants/WisCore_RAK4631_Board/`. `platformio.ini` bunları `board_build.variants_dir` ile kullanır.
+İlk derlemede çıkan tek sorun buydu; ayrıca `board_pins.h` içindeki `#ifdef WB_SPI_CS` sınaması
+kaldırıldı (bu ad makro değil sabit olduğundan sınama hep yanlış dala düşüyordu).
 
 1. PlatformIO kur (`pip install platformio`).
 2. `cd firmware && pio run -e rak4631` — ilk çalıştırmada `nordicnrf52` platformu ve `lib_deps`
@@ -105,7 +111,7 @@ Avatar hazırlama: `python3 tools/avatar_convert.py foto.jpg avatar.rgb` (96×96
 
 ## Bilinen eksikler
 
-- **Donanım katmanı derlenmedi**; ilk gerçek derlemede API uyumsuzlukları çıkması beklenir.
+- **Donanım katmanı derlendi ama hiçbir kartta çalıştırılmadı** (12 Kasım 2026). Yükleme (`-t upload`) denenmedi.
 - **GNSS görev döngüsü yok:** v0'da GNSS sürekli 1 Hz açık kalır ve 3V3_S hiç kesilmez (RAK12500'de V_BCKP yok; kesmek her
   seferinde soğuk başlangıç demek — bkz. `docs/mimari-v0.1.md` bölüm 12, H1). Spec'teki "30 sn'de bir konum, ≤ %15 görev" **uygulanmadı**;
   bu yüzden P0'ın ortalama akımı 7 mA hedefinin çok üstünde olacaktır.

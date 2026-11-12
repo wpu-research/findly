@@ -1,5 +1,5 @@
 // Findy P0 — u-blox GNSS (RAK12500, ZOE-M8Q) SparkFun u-blox GNSS Arduino Library ile, I2C 0x42.
-// DERLENMEDİ: kütüphane işlev adları hatırlanıyor (v3 API: SFE_UBLOX_GNSS). Emin olunmayanlar işaretli.
+// Derlendi (12 Kasım 2026), donanımda denenmedi. Kütüphane işlev adları derlemede doğrulandı; davranışları değil (v3 API: SFE_UBLOX_GNSS). Emin olunmayanlar işaretli.
 #include <SparkFun_u-blox_GNSS_Arduino_Library.h>
 #include <Wire.h>
 #include "board_pins.h"

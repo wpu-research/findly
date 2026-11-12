@@ -1,4 +1,4 @@
-// Findy P0 — ana döngü (RAK4631, Arduino/PlatformIO). DERLENMEDİ, DONANIMDA DENENMEDİ.
+// Findy P0 — ana döngü (RAK4631, Arduino/PlatformIO). Derlendi (12 Kasım 2026); DONANIMDA DENENMEDİ.
 // Mantığın çoğu findy_core'dadır (PC'de birim testli); bu dosya yalnızca donanımı çekirdeğe bağlar.
 #include <Arduino.h>
 #include <stdio.h>

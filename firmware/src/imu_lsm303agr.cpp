@@ -1,6 +1,6 @@
 // Findy P0 — LSM303AGR doğrudan I2C register erişimi (kütüphane sürümü riskini azaltmak için).
 // İvme 0x19, manyeto 0x1E. Register adresleri ST LSM303AGR veri sayfasından hatırlanan değerlerdir;
-// DERLENMEDİ ve DONANIMDA DENENMEDİ -> WHO_AM_I okuması (0x33 / 0x40) ilk doğrulama adımıdır.
+// Derlendi (12 Kasım 2026), DONANIMDA DENENMEDİ -> WHO_AM_I okuması (0x33 / 0x40) ilk doğrulama adımıdır.
 #include <Wire.h>
 #include "board_pins.h"
 #include "hw.h"

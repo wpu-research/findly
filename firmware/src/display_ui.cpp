@@ -1,5 +1,5 @@
 // Findy P0 — 240x240 yuvarlak GC9A01 arayüzü (spec bölüm 7). Adafruit GFX + Adafruit GC9A01A.
-// DERLENMEDİ. Tam kare GFXcanvas16 (240*240*2 = 115 200 bayt RAM) kullanılır: nRF52840'ın 256 KB RAM'inde
+// Derlendi (12 Kasım 2026), donanımda denenmedi. Tam kare GFXcanvas16 (240*240*2 = 115 200 bayt RAM) kullanılır: nRF52840'ın 256 KB RAM'inde
 // yer var ama BLE + LittleFS ile birlikte yığın/heap payı DOĞRULANACAK; sığmazsa doğrudan çizime geçilmeli.
 #include <Adafruit_GC9A01A.h>
 #include <Adafruit_GFX.h>

@@ -28,7 +28,7 @@ Doğrulanmamış tasarım: parça alınmadı, donanım kurulmadı, ölçüm yap�
 - `findy-teknik-ozet.html`: mimari, bağlantı şeması, çizimler ve fiyatlı alınacaklar listesi tek sayfada. Yeniden üretim: `python3 tools/build_findy_teknik_ozet.py`.
 - `docs/hedef-ozellikler.md`, `docs/deney-duzenegi-plani.md`: hedefler ve deney planı.
 - `docs/mimari-v0.1.md`: referans mimari ve radyo protokolü (önce bölüm 12).
-- `firmware/`: RAK4631 cihaz yazılımı; çekirdek testleri `bash firmware/test/run_native_tests.sh`. Donanım katmanı derlenmedi.
+- `firmware/`: RAK4631 cihaz yazılımı; çekirdek testleri `bash firmware/test/run_native_tests.sh`. Donanım katmanı 12 Kasım 2026'da derlendi (`~/.platformio/penv/bin/pio run -e rak4631`, `firmware/` içinde); hiçbir kartta çalıştırılmadı.
 - `hardware/`: parça listeleri, bağlantı tablosu ve şeması, doğrulama notları.
 - `hardware/alisveris-listesi.md`: 2 cihazlık deney düzeneği için mağaza bazında sipariş listesi (sipariş verilmedi).
 - `hardware/mekanik/`: teknik çizimler (`cizimler/`, önizleme `onizleme/`), 3B baskı dosyaları (`stl/`).

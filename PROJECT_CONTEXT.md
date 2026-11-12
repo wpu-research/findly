@@ -13,7 +13,7 @@ Bunlar tasarım hedefidir, ölçülmüş değer değildir. Ayrıntı, kısıtlar
 Kullanıcı "bütün projeyi yap: teknik çizimler, parçalar, bağlantı şemaları, kodlar" dedi. Üretilenler:
 
 - `docs/mimari-v0.1.md` — referans mimari, radyo protokolü, pin ataması. **Bölüm 12 düzeltmeleri önceki bölümlerin yerine geçer.**
-- `firmware/` — RAK4631 cihaz yazılımı. Taşınabilir çekirdek (`lib/findy_core`) PC'de test edildi: 33 test geçiyor (`bash firmware/test/run_native_tests.sh`). **Donanım katmanı (`src/`) hiç derlenmedi**; RAK derleme çekirdeği bu makinede kurulu değil.
+- `firmware/` — RAK4631 cihaz yazılımı. Taşınabilir çekirdek (`lib/findy_core`) PC'de test edildi: 33 test geçiyor (`bash firmware/test/run_native_tests.sh`). **Donanım katmanı (`src/`) 12 Kasım 2026'da RAK4631 için derlendi (hata yok; RAM %29,5, Flash %30,6), ama hiçbir kartta çalıştırılmadı.** Kart tanımı PlatformIO'da olmadığı için `firmware/boards/` ve `firmware/variants/` altına RAK deposundan alındı.
 - `hardware/BOM-P0.md`, `BOM-P1-aday.md`, `baglanti-tablosu.md`, `baglanti-semasi.svg/.png`, `dogrulama-notlari.md` — üretici belgeleriyle doğrulanmış parça listesi ve bağlantı şeması. RAK parçalarının fiyatı görülemedi.
 - `hardware/mekanik/` — 40 mm ürün konseptinin 5 teknik çizimi (SVG + PNG önizleme), 5 yazdırılabilir STL, `params.py`, `dogrula.py`.
 - `tools/findy_ble.py`, `tools/avatar_convert.py` — telefon yerine bilgisayardan ayar/avatar yükleme.
