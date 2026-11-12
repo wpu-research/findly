@@ -1,0 +1,51 @@
+{
+  "embedded_video_hashes": "3/3 originals match",
+  "layouts": [
+    {
+      "viewport": 1440,
+      "content": 1440
+    },
+    {
+      "viewport": 1024,
+      "content": 1024
+    },
+    {
+      "viewport": 768,
+      "content": 768
+    },
+    {
+      "viewport": 390,
+      "content": 390
+    },
+    {
+      "viewport": 360,
+      "content": 360
+    }
+  ],
+  "videos": [
+    {
+      "width": 720,
+      "height": 1280,
+      "duration": 10.026667,
+      "currentTime": 0.460447,
+      "readyState": 4
+    },
+    {
+      "width": 720,
+      "height": 1280,
+      "duration": 10.026667,
+      "currentTime": 0.460451,
+      "readyState": 4
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "duration": 10.026667,
+      "currentTime": 0.460358,
+      "readyState": 4
+    }
+  ],
+  "single_video_playback": "passed",
+  "javascript_errors": [],
+  "bytes": 18349480
+}

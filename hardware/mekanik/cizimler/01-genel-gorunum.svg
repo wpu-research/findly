@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<title>01-genel-gorunum</title>
+<rect x="0" y="0" width="420.0" height="297.0" fill="#fdfdfb"/>
+<polygon fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round" points="5.000,292.000 415.000,292.000 415.000,5.000 5.000,5.000"/>
+<polygon fill="#fdfdfb" stroke="#000" stroke-width="0.5" stroke-linejoin="round" points="225.000,292.000 415.000,292.000 415.000,246.000 225.000,246.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" points="225.000,257.000 415.000,257.000"/>
+<text x="320.000" y="253.300" font-size="3.5" text-anchor="middle" font-weight="bold">KONSEPT — ÜRETİM İÇİN DEĞİL — ölçüler hedef değerdir</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="225.000,266.000 415.000,266.000"/>
+<text x="227.000" y="260.600" font-size="1.8" text-anchor="start">PROJE</text>
+<text x="227.000" y="264.200" font-size="2.9" text-anchor="start" font-weight="bold">Findy — 40 mm yuvarlak arkadaş bulma cihazı (P1 ürün konsepti)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="225.000,275.000 415.000,275.000"/>
+<text x="227.000" y="269.000" font-size="1.8" text-anchor="start">ÇİZİM ADI</text>
+<text x="227.000" y="273.400" font-size="3.6" text-anchor="start" font-weight="bold">GENEL GÖRÜNÜM — üst / yan / alt</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="225.000,292.000 225.000,275.000"/>
+<text x="227.000" y="278.000" font-size="1.8" text-anchor="start">ÖLÇEK</text>
+<text x="227.000" y="282.400" font-size="3.0" text-anchor="start">2:1</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="287.000,292.000 287.000,275.000"/>
+<text x="289.000" y="278.000" font-size="1.8" text-anchor="start">TARİH</text>
+<text x="289.000" y="282.400" font-size="3.0" text-anchor="start">2026-11-11</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="337.000,292.000 337.000,275.000"/>
+<text x="339.000" y="278.000" font-size="1.8" text-anchor="start">ÇİZİM NO</text>
+<text x="339.000" y="282.400" font-size="3.0" text-anchor="start">FND-P1-01</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="385.000,292.000 385.000,275.000"/>
+<text x="387.000" y="278.000" font-size="1.8" text-anchor="start">SAYFA</text>
+<text x="387.000" y="282.400" font-size="3.0" text-anchor="start">1/1</text>
+<text x="227.000" y="289.800" font-size="2.0" text-anchor="start">Ölçüler mm. Çizen: otomatik (ciz.py). Kaynak: params.py</text>
+<text x="105.000" y="22.000" font-size="3.4" text-anchor="middle" font-weight="bold">ÜST GÖRÜNÜŞ</text>
+<circle cx="105.000" cy="92.000" r="40.000" fill="none" stroke="#000" stroke-width="0.55"/>
+<circle cx="105.000" cy="92.000" r="38.400" fill="none" stroke="#000" stroke-width="0.25"/>
+<circle cx="105.000" cy="92.000" r="36.800" fill="none" stroke="#000" stroke-width="0.25"/>
+<circle cx="105.000" cy="92.000" r="35.000" fill="none" stroke="#000" stroke-width="0.25"/>
+<circle cx="105.000" cy="92.000" r="32.400" fill="none" stroke="#000" stroke-width="0.3" stroke-dasharray="2.4 1.0"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.0 1.0 1.0 1.0" points="62.000,92.000 148.000,92.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.0 1.0 1.0 1.0" points="105.000,135.000 105.000,49.000"/>
+<polygon fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round" points="145.000,95.400 146.600,95.400 146.600,88.600 145.000,88.600"/>
+<polyline fill="none" stroke="#000" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" points="105.000,146.000 105.000,134.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" points="105.000,50.000 105.000,38.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.0 1.0 1.0 1.0" points="105.000,134.000 105.000,50.000"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="110.500,38.000 108.300,37.250 108.300,38.750"/>
+<polyline fill="none" stroke="#000" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round" points="105.000,38.000 110.500,38.000"/>
+<text x="103.200" y="36.400" font-size="3.4" text-anchor="end" font-weight="bold">A</text>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="110.500,146.000 108.300,145.250 108.300,146.750"/>
+<polyline fill="none" stroke="#000" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round" points="105.000,146.000 110.500,146.000"/>
+<text x="103.200" y="150.200" font-size="3.4" text-anchor="end" font-weight="bold">A</text>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="74.689,74.500 61.000,45.000"/>
+<circle cx="74.689" cy="74.500" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="60.000" y="45.750" font-size="2.5" text-anchor="end">Ø35 kapak camı (siyah cam)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="61.000,46.125 24.463,46.125"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="73.704,83.614 61.000,57.000"/>
+<circle cx="73.704" cy="83.614" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="60.000" y="57.750" font-size="2.5" text-anchor="end">Ø32,4 ekran aktif alanı (tipik*)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="61.000,58.125 22.196,58.125"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="70.138,77.915 61.000,69.000"/>
+<circle cx="70.138" cy="77.915" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="60.000" y="69.750" font-size="2.5" text-anchor="end">lime ışık halkası oluğu</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="61.000,70.125 32.618,70.125"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="146.000,88.600 157.000,59.000"/>
+<circle cx="146.000" cy="88.600" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="158.000" y="59.750" font-size="2.5" text-anchor="start">yan tuş (lime), 0° = saat 3</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="157.000,60.125 191.010,60.125"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="105.000,38.000 130.000,29.000"/>
+<circle cx="105.000" cy="38.000" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="131.000" y="29.750" font-size="2.5" text-anchor="start">A–A kesit düzlemi (12–6 ekseni)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="130.000,30.125 170.432,30.125"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="65.000,96.800 65.000,143.500"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="145.000,96.800 145.000,143.500"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="65.000,142.000 145.000,142.000"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="65.000,142.000 67.200,142.750 67.200,141.250"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="145.000,142.000 142.800,141.250 142.800,142.750"/>
+<text x="82.600" y="145.050" font-size="3.0" text-anchor="middle">Ø40</text>
+<text x="105.000" y="170.000" font-size="3.4" text-anchor="middle" font-weight="bold">YAN GÖRÜNÜŞ</text>
+<polygon fill="none" stroke="#000" stroke-width="0.55" stroke-linejoin="round" points="66.600,205.000 143.400,205.000 145.000,203.400 145.000,180.200 65.000,180.200 65.000,203.400"/>
+<polyline fill="none" stroke="#000" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.0 1.0 1.0 1.0" points="65.000,188.200 145.000,188.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.6 1.0" points="66.600,181.200 143.400,181.200"/>
+<polygon fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round" points="145.000,187.600 146.600,187.600 146.600,180.800 145.000,180.800"/>
+<polygon fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round" points="63.400,199.000 65.000,199.000 65.000,195.800 63.400,195.800"/>
+<polygon fill="none" stroke="#000" stroke-width="0.3" stroke-linejoin="round" points="115.767,199.000 134.416,199.000 134.416,195.800 115.767,195.800"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="145.800,205.000 170.500,205.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="145.800,180.200 170.500,180.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="169.000,205.000 169.000,180.200"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="169.000,205.000 169.750,202.800 168.250,202.800"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="169.000,180.200 168.250,182.400 169.750,182.400"/>
+<text x="171.900" y="192.600" font-size="2.8" text-anchor="middle" transform="rotate(-90.000 171.900 192.600)">12,4</text>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="145.800,205.000 158.500,205.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="145.800,188.200 158.500,188.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="157.000,205.000 157.000,188.200"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="157.000,205.000 157.750,202.800 156.250,202.800"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="157.000,188.200 156.250,190.400 157.750,190.400"/>
+<text x="159.675" y="196.600" font-size="2.5" text-anchor="middle" transform="rotate(-90.000 159.675 196.600)">8,4</text>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="145.800,188.200 158.500,188.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="145.800,180.200 158.500,180.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="157.000,188.200 157.000,180.200"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="157.000,188.200 157.750,186.000 156.250,186.000"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="157.000,180.200 156.250,182.400 157.750,182.400"/>
+<text x="159.675" y="184.200" font-size="2.5" text-anchor="middle" transform="rotate(-90.000 159.675 184.200)">4</text>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="145.800,205.000 182.500,205.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="145.800,184.200 182.500,184.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="181.000,205.000 181.000,184.200"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="181.000,205.000 181.750,202.800 180.250,202.800"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="181.000,184.200 180.250,186.400 181.750,186.400"/>
+<text x="183.600" y="194.600" font-size="2.4" text-anchor="middle" transform="rotate(-90.000 183.600 194.600)">10,4 (tuş ekseni)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="62.600,205.000 53.900,205.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="62.600,199.000 53.900,199.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="55.400,209.500 55.400,194.500"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="55.400,205.000 54.650,207.200 56.150,207.200"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="55.400,199.000 56.150,196.800 54.650,196.800"/>
+<text x="54.600" y="202.000" font-size="2.5" text-anchor="middle" transform="rotate(-90.000 54.600 202.000)">3</text>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="62.600,199.000 53.900,199.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="62.600,195.800 53.900,195.800"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="55.400,203.500 55.400,191.300"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="55.400,199.000 54.650,201.200 56.150,201.200"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="55.400,195.800 56.150,193.600 54.650,193.600"/>
+<text x="54.600" y="197.400" font-size="2.5" text-anchor="middle" transform="rotate(-90.000 54.600 197.400)">1,6</text>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="65.000,205.800 65.000,214.500"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="145.000,205.800 145.000,214.500"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="65.000,213.000 145.000,213.000"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="65.000,213.000 67.200,213.750 67.200,212.250"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="145.000,213.000 142.800,212.250 142.800,213.750"/>
+<text x="105.000" y="215.900" font-size="2.8" text-anchor="middle">Ø40</text>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="81.000,188.200 59.000,170.200"/>
+<circle cx="81.000" cy="188.200" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="58.000" y="170.890" font-size="2.3" text-anchor="end">ayrım düzlemi z=8,4</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="59.000,171.235 34.221,171.235"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="64.200,197.400 39.000,182.000"/>
+<circle cx="64.200" cy="197.400" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="38.000" y="182.690" font-size="2.3" text-anchor="end">bayonet kulağı</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="39.000,183.035 21.206,183.035"/>
+<text x="300.000" y="22.000" font-size="3.4" text-anchor="middle" font-weight="bold">ALT GÖRÜNÜŞ (arka kapak)</text>
+<circle cx="300.000" cy="92.000" r="40.000" fill="none" stroke="#000" stroke-width="0.55"/>
+<circle cx="300.000" cy="92.000" r="38.400" fill="none" stroke="#000" stroke-width="0.25"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.0 1.0 1.0 1.0" points="257.000,92.000 343.000,92.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.0 1.0 1.0 1.0" points="300.000,135.000 300.000,49.000"/>
+<polygon fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round" points="329.416,62.584 327.836,61.085 326.180,59.671 324.452,58.345 322.657,57.111 320.800,55.973 318.886,54.934 316.920,53.997 314.908,53.163 312.855,52.436 310.767,51.817 310.353,53.363 312.361,53.958 314.335,54.657 316.269,55.458 318.160,56.360 320.000,57.359 321.786,58.453 323.511,59.639 325.173,60.914 326.765,62.274 328.284,63.716"/>
+<polygon fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round" points="259.817,81.233 259.309,83.351 258.912,85.492 258.628,87.652 258.457,89.823 258.400,92.000 258.457,94.177 258.628,96.348 258.912,98.508 259.309,100.649 259.817,102.767 261.363,102.353 260.874,100.316 260.492,98.257 260.219,96.181 260.055,94.093 260.000,92.000 260.055,89.907 260.219,87.819 260.492,85.743 260.874,83.684 261.363,81.647"/>
+<polygon fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round" points="310.767,132.183 312.855,131.564 314.908,130.837 316.920,130.003 318.886,129.066 320.800,128.027 322.657,126.889 324.452,125.655 326.180,124.329 327.836,122.915 329.416,121.416 328.284,120.284 326.765,121.726 325.173,123.086 323.511,124.361 321.786,125.547 320.000,126.641 318.160,127.640 316.269,128.542 314.335,129.343 312.361,130.042 310.353,130.637"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="325.500,47.833 323.943,46.970 322.357,46.162 320.744,45.409 319.105,44.714 317.443,44.076 315.760,43.496 314.058,42.976 312.338,42.515 310.603,42.114 308.856,41.775 307.098,41.496 305.331,41.279 303.558,41.124 301.780,41.031 300.000,41.000 298.220,41.031 296.442,41.124 294.669,41.279 292.902,41.496 291.144,41.775 289.397,42.114 287.662,42.515 285.942,42.976 284.240,43.496 282.557,44.076 280.895,44.714 279.256,45.409 277.643,46.162 276.057,46.970 274.500,47.833 272.974,48.750 271.481,49.719 270.023,50.740 268.601,51.811 267.218,52.932 265.874,54.100 264.572,55.314 263.314,56.572 262.100,57.874 260.932,59.218 259.811,60.601 258.740,62.023 257.719,63.481 256.750,64.974 255.833,66.500 254.970,68.057 254.162,69.643 253.409,71.256 252.714,72.895 252.076,74.557 251.496,76.240 250.976,77.942 250.515,79.662 250.114,81.397 249.775,83.144 249.496,84.902 249.279,86.669 249.124,88.442 249.031,90.220 249.000,92.000"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="325.500,47.833 323.970,46.083 323.220,47.382"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="321.200,55.281 326.700,45.754"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="249.000,92.000 249.750,89.800 248.250,89.800"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="257.600,92.000 246.600,92.000"/>
+<text x="271.900" y="43.329" font-size="2.4" text-anchor="middle" transform="rotate(-30.000 271.900 43.329)">120° aralık</text>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="312.164,137.399 313.741,136.946 315.302,136.439 316.843,135.878 318.364,135.264 319.863,134.596 321.338,133.877 322.786,133.107 324.207,132.287 325.598,131.418 326.958,130.500 328.285,129.536 329.578,128.526 330.835,127.471 332.054,126.374 333.234,125.234"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="310.767,132.183 312.682,139.330"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="329.416,121.416 334.648,126.648"/>
+<text x="328.700" y="137.782" font-size="2.4" text-anchor="start">30°</text>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="259.200,92.000 252.000,59.000"/>
+<circle cx="259.200" cy="92.000" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="251.000" y="59.690" font-size="2.3" text-anchor="end">bayonet kulağı ×3 (60°, 180°, 300°)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="252.000,60.035 209.459,60.035"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="330.029,66.803 347.000,53.000"/>
+<circle cx="330.029" cy="66.803" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="348.000" y="53.690" font-size="2.3" text-anchor="start">pah 0,8</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="347.000,54.035 356.559,54.035"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="260.000,96.800 260.000,143.500"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="340.000,96.800 340.000,143.500"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="260.000,142.000 340.000,142.000"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="260.000,142.000 262.200,142.750 262.200,141.250"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="340.000,142.000 337.800,141.250 337.800,142.750"/>
+<text x="277.600" y="145.050" font-size="3.0" text-anchor="middle">Ø40</text>
+<polygon fill="#fdfdfb" stroke="#000" stroke-width="0.5" stroke-linejoin="round" points="205.000,154.000 410.000,154.000 410.000,215.600 205.000,215.600"/>
+<polyline fill="none" stroke="#000" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round" points="205.000,159.600 410.000,159.600"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="205.000,165.200 410.000,165.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="205.000,170.800 410.000,170.800"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="205.000,176.400 410.000,176.400"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="205.000,182.000 410.000,182.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="205.000,187.600 410.000,187.600"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="205.000,193.200 410.000,193.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="205.000,198.800 410.000,198.800"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="205.000,204.400 410.000,204.400"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="205.000,210.000 410.000,210.000"/>
+<text x="206.200" y="157.808" font-size="2.5" text-anchor="start" font-weight="bold">Ölçü</text>
+<text x="206.200" y="163.408" font-size="2.4" text-anchor="start">Dış çap (gövde)</text>
+<text x="206.200" y="169.008" font-size="2.4" text-anchor="start">Toplam kalınlık (yığın toplamı)</text>
+<text x="206.200" y="174.608" font-size="2.4" text-anchor="start">Alt gövde / üst çerçeve yüksekliği</text>
+<text x="206.200" y="180.208" font-size="2.4" text-anchor="start">Yan duvar kalınlığı</text>
+<text x="206.200" y="185.808" font-size="2.4" text-anchor="start">Kapak camı çapı</text>
+<text x="206.200" y="191.408" font-size="2.4" text-anchor="start">Ekran aktif alanı (1,28" yuvarlak)</text>
+<text x="206.200" y="197.008" font-size="2.4" text-anchor="start">Işık halkası oluğu (lime)</text>
+<text x="206.200" y="202.608" font-size="2.4" text-anchor="start">Yan tuş: konum / yükseklik (z)</text>
+<text x="206.200" y="208.208" font-size="2.4" text-anchor="start">Tuş başı çap / çıkıntı</text>
+<text x="206.200" y="213.808" font-size="2.4" text-anchor="start">Bayonet kulağı: adet × genişlik / çıkıntı</text>
+<polyline fill="none" stroke="#000" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" points="275.000,154.000 275.000,215.600"/>
+<text x="276.200" y="157.808" font-size="2.5" text-anchor="start" font-weight="bold">Değer</text>
+<text x="276.200" y="163.408" font-size="2.4" text-anchor="start">Ø40</text>
+<text x="276.200" y="169.008" font-size="2.4" text-anchor="start">12,4  (≤ 13)</text>
+<text x="276.200" y="174.608" font-size="2.4" text-anchor="start">8,4 / 4</text>
+<text x="276.200" y="180.208" font-size="2.4" text-anchor="start">1,6</text>
+<text x="276.200" y="185.808" font-size="2.4" text-anchor="start">Ø35</text>
+<text x="276.200" y="191.408" font-size="2.4" text-anchor="start">Ø32,4</text>
+<text x="276.200" y="197.008" font-size="2.4" text-anchor="start">Ø36,8–38,4</text>
+<text x="276.200" y="202.608" font-size="2.4" text-anchor="start">0° (saat 3) / 10,4</text>
+<text x="276.200" y="208.208" font-size="2.4" text-anchor="start">Ø3,4 / 0,8</text>
+<text x="276.200" y="213.808" font-size="2.4" text-anchor="start">3 × 30° / 0,8</text>
+<polyline fill="none" stroke="#000" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" points="315.000,154.000 315.000,215.600"/>
+<text x="316.200" y="157.808" font-size="2.5" text-anchor="start" font-weight="bold">Etiket</text>
+<text x="316.200" y="163.408" font-size="2.4" text-anchor="start">hedef</text>
+<text x="316.200" y="169.008" font-size="2.4" text-anchor="start">hedef</text>
+<text x="316.200" y="174.608" font-size="2.4" text-anchor="start">varsayım</text>
+<text x="316.200" y="180.208" font-size="2.4" text-anchor="start">varsayım</text>
+<text x="316.200" y="185.808" font-size="2.4" text-anchor="start">varsayım</text>
+<text x="316.200" y="191.408" font-size="2.4" text-anchor="start">tipik — veri sayfasıyla doğrulanacak</text>
+<text x="316.200" y="197.008" font-size="2.4" text-anchor="start">varsayım</text>
+<text x="316.200" y="202.608" font-size="2.4" text-anchor="start">varsayım</text>
+<text x="316.200" y="208.208" font-size="2.4" text-anchor="start">varsayım</text>
+<text x="316.200" y="213.808" font-size="2.4" text-anchor="start">varsayım</text>
+<text x="205.000" y="220.000" font-size="2.2" text-anchor="start">* Ekran aktif alanı tipik değerdir; seçilecek panelin veri sayfasıyla doğrulanacaktır.</text>
+<text x="205.000" y="223.800" font-size="2.2" text-anchor="start">Bayonet kulakları dış ölçüyü yalnız 3 bölgede Ø41,6'ya çıkarır. Tuş deliği ve şarj arayüzü bu konseptte çizilmemiştir.</text>
+<text x="205.000" y="227.600" font-size="2.2" text-anchor="start">Gövde iki parçadır: alt gövde (arka kapak dâhil) + üst çerçeve; birleşim düzlemi z = 8,4.</text>
+</svg>

@@ -1,0 +1,241 @@
+{
+  "moved_at_utc": "2026-11-03T17:08:43.030268+00:00",
+  "source": "/home/wpu/Desktop/Urunler/PartyAi",
+  "destination": "/home/wpu/Desktop/Urunler/Findly",
+  "files_verified": 45,
+  "total_bytes": 61258887,
+  "protected_source_entries_untouched": [
+    ".agents",
+    ".aws",
+    ".codex",
+    ".git"
+  ],
+  "downloads_sources_preserved": true,
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 1137,
+      "sha256": "d86de77d2fcd64c93aa25415d050fb3d9a49689d55b8bed45ac6c1a397dede90"
+    },
+    {
+      "path": "PROJECT_CONTEXT.md",
+      "bytes": 3425,
+      "sha256": "c70cd82406aaa641a4e5cb25c839589ca702b035ab31901dfe7de0d069c82166"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2721,
+      "sha256": "6f1aa489dec4670e8a88153475d9e4c04caac8b246db179424b7c8e054d0565b"
+    },
+    {
+      "path": "assets/images/Gemini_Generated_Image_5jhsst5jhsst5jhs.jpeg",
+      "bytes": 2077167,
+      "sha256": "f6f07d2a7ce537ed52cea469f577e97789c93518661292b62e532b29aa746c02"
+    },
+    {
+      "path": "assets/images/Gemini_Generated_Image_hltuj3hltuj3hltu.jpeg",
+      "bytes": 2748719,
+      "sha256": "364b0a22da93d4217bd12baf8c9b64b1ecd06a06e4d53be3874117ee04e86b4e"
+    },
+    {
+      "path": "assets/images/Gemini_Generated_Image_tf7x48tf7x48tf7x.jpeg",
+      "bytes": 2611961,
+      "sha256": "fe23b3113f421be038615dd37663876d07d07e8f7913d79684446954820a0101"
+    },
+    {
+      "path": "assets/videos/Screencast from 03-11-2026 06-48-12 ΜΜ.mp4",
+      "bytes": 5501500,
+      "sha256": "5d3aafb0f3d23e496af58a2cd7e3576c8a28afa09c962dd5cde410bb1e790047"
+    },
+    {
+      "path": "assets/videos/gemini_generated_video_017ede88.mp4",
+      "bytes": 4901929,
+      "sha256": "05b2efb8fcd5415304405a0ae44cd94a230b10db66bbd4b27fd648285c834918"
+    },
+    {
+      "path": "assets/videos/gemini_generated_video_91056a3b.mp4",
+      "bytes": 2893805,
+      "sha256": "f78972a33b3927380280377a66803a94c2929b90f258952a84656306947d5623"
+    },
+    {
+      "path": "assets/videos/gemini_generated_video_e3e40a4a.mp4",
+      "bytes": 5585850,
+      "sha256": "754943a69811a1296120117a158ccc6250123409a65f39280534f2e9e3f55aa9"
+    },
+    {
+      "path": "docs/RTK.md",
+      "bytes": 482,
+      "sha256": "49c368c302c6f63d089f4c1085b242fc50fe22ce5bc34dada6478083000e7c6f"
+    },
+    {
+      "path": "docs/conversation.md",
+      "bytes": 25766,
+      "sha256": "b928b8df1e8e4c3430a604c65f58ee4d38f60bc0c6de4b194c6655c4a5c2c86e"
+    },
+    {
+      "path": "docs/conversations/01a1a215-26f6-7b32-a8b0-49a05d3cb88a.messages.jsonl",
+      "bytes": 31614,
+      "sha256": "3f56ddb4a85adbe8bd73873ee2e8c7dfa47c1f6916083697a053b804bedaaf6c"
+    },
+    {
+      "path": "docs/conversations/01a1a215-26f6-7b32-a8b0-49a05d3cb88a.metadata.json",
+      "bytes": 459,
+      "sha256": "614cd3ca34b71afc498936b48de4a4ea70cb5900cc3d5f2b445a1c9a7a2ce40e"
+    },
+    {
+      "path": "docs/conversations/01a1a215-26f6-7b32-a8b0-49a05d3cb88a.tools.jsonl",
+      "bytes": 1618409,
+      "sha256": "0f7462e7ed2d138ac6cf24cef39ede4b5e13b7203bc41f009e0ad066151ba51a"
+    },
+    {
+      "path": "docs/original-project-instructions.md",
+      "bytes": 4409,
+      "sha256": "804cc263bda03b01d6eae0a944d1f83cf4eb709df254f3b8a900c8f4e9a3bdfa"
+    },
+    {
+      "path": "docs/prompts.md",
+      "bytes": 11134,
+      "sha256": "019d0e4e7ff503bf5435578c9339030e3fc3650a03196c010d65b3da77f1d256"
+    },
+    {
+      "path": "docs/source-media-manifest.json",
+      "bytes": 2675,
+      "sha256": "9f38bfd9d828a9e74d049e73a61f718f50f54a742090c81000932f8bb0866201"
+    },
+    {
+      "path": "findy-yatirimci-sunumu-v2.html",
+      "bytes": 18349480,
+      "sha256": "eeebdab58f10158126ef09cc24d68696afb609d78a6360bb683674feb7ac0cd5"
+    },
+    {
+      "path": "references/findly-yatirimci-sunumu.html",
+      "bytes": 3195537,
+      "sha256": "2f23b1b39f97fca11c7ccfa232754b12cf3df5f7987fc8825da72c844eb4f3a9"
+    },
+    {
+      "path": "references/findy-yatirimci-sunumu.html",
+      "bytes": 6974445,
+      "sha256": "2c62cdf6353e66b79782b23fdfd00a7dab1246840b18f321c271a3ad840e9696"
+    },
+    {
+      "path": "tools/__pycache__/export_findly_conversation.cpython-312.pyc",
+      "bytes": 8694,
+      "sha256": "4c65d64435624c491858c5084fd3c0ac8db4314660689b09d4b05615e5c413ee"
+    },
+    {
+      "path": "tools/build_findy_presentation.py",
+      "bytes": 25615,
+      "sha256": "50165c38b1a53909327a5d10688b3b77f91928cb9c2d3655fcf3e33bd93f0725"
+    },
+    {
+      "path": "tools/check_findy_presentation.py",
+      "bytes": 5929,
+      "sha256": "32443b9142078ef0b5e92784647394a3dcb46bc5f5bb1d5e1d2a1cb8005e1e66"
+    },
+    {
+      "path": "tools/export_findly_conversation.py",
+      "bytes": 5502,
+      "sha256": "fd856488e975fcf0a37b02188b447a3621ed7f44b2e0173819c3b3b76911388c"
+    },
+    {
+      "path": "tools/relocate_findly_project.py",
+      "bytes": 5451,
+      "sha256": "48c96f9da9ceaf6a4fbdded522a2bb2dd5f4025f580c706b020618398ea9e5ef"
+    },
+    {
+      "path": "validation/latest/desktop-giris.png",
+      "bytes": 525121,
+      "sha256": "af71780c4196c0c2eb4aa08144713fb2b254c8d862cf9dfd98ce0fcd9acccf81"
+    },
+    {
+      "path": "validation/latest/desktop-teknoloji.png",
+      "bytes": 139494,
+      "sha256": "2349e830d92f73d3d8448f58be359304fb5f01a8dcbb1bcd30a28d8b79476dce"
+    },
+    {
+      "path": "validation/latest/desktop-video-dark.png",
+      "bytes": 119054,
+      "sha256": "7422c0bfc859a9e1eb81d1824a236832b50fbfcadec1b5c4c8bb60b96c13469a"
+    },
+    {
+      "path": "validation/latest/desktop-video.png",
+      "bytes": 493603,
+      "sha256": "39307f6c356031ed2313af4d0ec512942d91449b90c77c3ffe0d164aaa0d9939"
+    },
+    {
+      "path": "validation/latest/desktop-yatirim.png",
+      "bytes": 92199,
+      "sha256": "d817e482486e72fb8d8615b09db8ef1d6bcc596ef580812012fe3da06c6b3c66"
+    },
+    {
+      "path": "validation/latest/mobile-giris.png",
+      "bytes": 123671,
+      "sha256": "6b3d08768fc26fac5f309e8991b5cbbe876d7338f51af2a5c10dc8785bb94956"
+    },
+    {
+      "path": "validation/latest/mobile-video.png",
+      "bytes": 549172,
+      "sha256": "2585752520103d474aae46b331c3b1e36f62f78c2f32fac77028c5f94e7a1f8e"
+    },
+    {
+      "path": "validation/latest/validation.json",
+      "bytes": 874,
+      "sha256": "ab08474ce6910e5a995e7f3fc25de149965f73834810e325c7453349c216c714"
+    },
+    {
+      "path": "validation/original/desktop-giris.png",
+      "bytes": 525121,
+      "sha256": "af71780c4196c0c2eb4aa08144713fb2b254c8d862cf9dfd98ce0fcd9acccf81"
+    },
+    {
+      "path": "validation/original/desktop-teknoloji.png",
+      "bytes": 139494,
+      "sha256": "2349e830d92f73d3d8448f58be359304fb5f01a8dcbb1bcd30a28d8b79476dce"
+    },
+    {
+      "path": "validation/original/desktop-video-dark.png",
+      "bytes": 639435,
+      "sha256": "8139057e5cddb5a791831bab492836fc05ef46f631ab2f69a7c87621da4970f9"
+    },
+    {
+      "path": "validation/original/desktop-video.png",
+      "bytes": 493497,
+      "sha256": "bd48b250737590ebc6f4ccfebfb7a6eb6fe96a4dc34919a94692260c04c40547"
+    },
+    {
+      "path": "validation/original/desktop-yatirim.png",
+      "bytes": 92199,
+      "sha256": "d817e482486e72fb8d8615b09db8ef1d6bcc596ef580812012fe3da06c6b3c66"
+    },
+    {
+      "path": "validation/original/mobile-giris.png",
+      "bytes": 123671,
+      "sha256": "6b3d08768fc26fac5f309e8991b5cbbe876d7338f51af2a5c10dc8785bb94956"
+    },
+    {
+      "path": "validation/original/mobile-video.png",
+      "bytes": 549086,
+      "sha256": "59f640f74a71d7c680851a4b13d770d4336ae2f3930fa2db6802b430cbc8aae5"
+    },
+    {
+      "path": "validation/original/validation.json",
+      "bytes": 943,
+      "sha256": "47d092b20718f85918c62d27ae03612a699b74b807d6f7b0b72f135666c951c2"
+    },
+    {
+      "path": "validation/original/video-01-contact.jpg",
+      "bytes": 25437,
+      "sha256": "d63dedb8e3c2bca60a78af5c0f88d7d0650c1d7884a3a115654fd610e7407812"
+    },
+    {
+      "path": "validation/original/video-02-contact.jpg",
+      "bytes": 22791,
+      "sha256": "a27ecc1caae986da5d88f9d28760a918d9c9cb52e522ac8bec7b7bca828ae9ca"
+    },
+    {
+      "path": "validation/original/video-03-contact.jpg",
+      "bytes": 10210,
+      "sha256": "86b2208639c979d8357c458a5e45ef4a063e278634f5b21662bb4b9d98d00e8d"
+    }
+  ]
+}

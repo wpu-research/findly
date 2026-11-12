@@ -1,0 +1,62 @@
+[
+  {
+    "source": "/home/wpu/Downloads/Findly/Gemini_Generated_Image_5jhsst5jhsst5jhs.jpeg",
+    "relative_path": "assets/images/Gemini_Generated_Image_5jhsst5jhsst5jhs.jpeg",
+    "bytes": 2077167,
+    "sha256": "f6f07d2a7ce537ed52cea469f577e97789c93518661292b62e532b29aa746c02"
+  },
+  {
+    "source": "/home/wpu/Downloads/Findly/Gemini_Generated_Image_hltuj3hltuj3hltu.jpeg",
+    "relative_path": "assets/images/Gemini_Generated_Image_hltuj3hltuj3hltu.jpeg",
+    "bytes": 2748719,
+    "sha256": "364b0a22da93d4217bd12baf8c9b64b1ecd06a06e4d53be3874117ee04e86b4e"
+  },
+  {
+    "source": "/home/wpu/Downloads/Findly/Gemini_Generated_Image_tf7x48tf7x48tf7x.jpeg",
+    "relative_path": "assets/images/Gemini_Generated_Image_tf7x48tf7x48tf7x.jpeg",
+    "bytes": 2611961,
+    "sha256": "fe23b3113f421be038615dd37663876d07d07e8f7913d79684446954820a0101"
+  },
+  {
+    "source": "/home/wpu/Downloads/Findly/Screencast from 03-11-2026 06-48-12 ΜΜ.mp4",
+    "relative_path": "assets/videos/Screencast from 03-11-2026 06-48-12 ΜΜ.mp4",
+    "bytes": 5501500,
+    "sha256": "5d3aafb0f3d23e496af58a2cd7e3576c8a28afa09c962dd5cde410bb1e790047"
+  },
+  {
+    "source": "/home/wpu/Downloads/Findly/findly-yatirimci-sunumu.html",
+    "relative_path": "references/findly-yatirimci-sunumu.html",
+    "bytes": 3195537,
+    "sha256": "2f23b1b39f97fca11c7ccfa232754b12cf3df5f7987fc8825da72c844eb4f3a9"
+  },
+  {
+    "source": "/home/wpu/Downloads/Findly/findy-yatirimci-sunumu-v2.html",
+    "relative_path": "findy-yatirimci-sunumu-v2.html",
+    "bytes": 18349480,
+    "sha256": "eeebdab58f10158126ef09cc24d68696afb609d78a6360bb683674feb7ac0cd5"
+  },
+  {
+    "source": "/home/wpu/Downloads/Findly/findy-yatirimci-sunumu.html",
+    "relative_path": "references/findy-yatirimci-sunumu.html",
+    "bytes": 6974445,
+    "sha256": "2c62cdf6353e66b79782b23fdfd00a7dab1246840b18f321c271a3ad840e9696"
+  },
+  {
+    "source": "/home/wpu/Downloads/Findly/gemini_generated_video_017ede88.mp4",
+    "relative_path": "assets/videos/gemini_generated_video_017ede88.mp4",
+    "bytes": 4901929,
+    "sha256": "05b2efb8fcd5415304405a0ae44cd94a230b10db66bbd4b27fd648285c834918"
+  },
+  {
+    "source": "/home/wpu/Downloads/Findly/gemini_generated_video_91056a3b.mp4",
+    "relative_path": "assets/videos/gemini_generated_video_91056a3b.mp4",
+    "bytes": 2893805,
+    "sha256": "f78972a33b3927380280377a66803a94c2929b90f258952a84656306947d5623"
+  },
+  {
+    "source": "/home/wpu/Downloads/Findly/gemini_generated_video_e3e40a4a.mp4",
+    "relative_path": "assets/videos/gemini_generated_video_e3e40a4a.mp4",
+    "bytes": 5585850,
+    "sha256": "754943a69811a1296120117a158ccc6250123409a65f39280534f2e9e3f55aa9"
+  }
+]

@@ -1,0 +1,287 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<title>04-kart-yerlesim</title>
+<rect x="0" y="0" width="420.0" height="297.0" fill="#fdfdfb"/>
+<polygon fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round" points="5.000,292.000 415.000,292.000 415.000,5.000 5.000,5.000"/>
+<polygon fill="#fdfdfb" stroke="#000" stroke-width="0.5" stroke-linejoin="round" points="225.000,292.000 415.000,292.000 415.000,246.000 225.000,246.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" points="225.000,257.000 415.000,257.000"/>
+<text x="320.000" y="253.300" font-size="3.5" text-anchor="middle" font-weight="bold">KONSEPT — ÜRETİM İÇİN DEĞİL — ölçüler hedef değerdir</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="225.000,266.000 415.000,266.000"/>
+<text x="227.000" y="260.600" font-size="1.8" text-anchor="start">PROJE</text>
+<text x="227.000" y="264.200" font-size="2.9" text-anchor="start" font-weight="bold">Findy — 40 mm yuvarlak arkadaş bulma cihazı (P1 ürün konsepti)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="225.000,275.000 415.000,275.000"/>
+<text x="227.000" y="269.000" font-size="1.8" text-anchor="start">ÇİZİM ADI</text>
+<text x="227.000" y="273.400" font-size="3.6" text-anchor="start" font-weight="bold">KART YERLEŞİM ÖNERİSİ — Ø36 yuvarlak kart</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="225.000,292.000 225.000,275.000"/>
+<text x="227.000" y="278.000" font-size="1.8" text-anchor="start">ÖLÇEK</text>
+<text x="227.000" y="282.400" font-size="3.0" text-anchor="start">4:1</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="287.000,292.000 287.000,275.000"/>
+<text x="289.000" y="278.000" font-size="1.8" text-anchor="start">TARİH</text>
+<text x="289.000" y="282.400" font-size="3.0" text-anchor="start">2026-11-11</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="337.000,292.000 337.000,275.000"/>
+<text x="339.000" y="278.000" font-size="1.8" text-anchor="start">ÇİZİM NO</text>
+<text x="339.000" y="282.400" font-size="3.0" text-anchor="start">FND-P1-04</text>
+<polyline fill="none" stroke="#000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="385.000,292.000 385.000,275.000"/>
+<text x="387.000" y="278.000" font-size="1.8" text-anchor="start">SAYFA</text>
+<text x="387.000" y="282.400" font-size="3.0" text-anchor="start">1/1</text>
+<text x="227.000" y="289.800" font-size="2.0" text-anchor="start">Ölçüler mm. Çizen: otomatik (ciz.py). Kaynak: params.py</text>
+<text x="122.000" y="44.000" font-size="3.2" text-anchor="middle" font-weight="bold">YERLEŞİM ÖNERİSİ (blok düzeyinde) — şema veya gerber DEĞİLDİR</text>
+<text x="122.000" y="48.800" font-size="2.3" text-anchor="middle">Üstten görünüş, şeffaf gösterim: bileşenler kartın alt yüzünde; FPC konnektörü üst yüzde. Tuş 0° = sağ.</text>
+<circle cx="122.000" cy="147.000" r="73.600" fill="none" stroke="#000" stroke-width="0.25" stroke-dasharray="2.4 1.0"/>
+<circle cx="122.000" cy="147.000" r="72.000" fill="none" stroke="#000" stroke-width="0.65"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.0 1.0 1.0 1.0" points="47.000,147.000 197.000,147.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.0 1.0 1.0 1.0" points="122.000,222.000 122.000,72.000"/>
+<polygon fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round" points="80.702,205.979 86.000,209.354 91.571,212.254 97.375,214.658 103.365,216.547 109.497,217.906 115.725,218.726 122.000,219.000 128.275,218.726 134.503,217.906 140.635,216.547 146.625,214.658 152.429,212.254 158.000,209.354 163.298,205.979 160.085,201.392 155.200,204.504 150.062,207.179 144.710,209.396 139.186,211.137 133.530,212.391 127.787,213.147 122.000,213.400 116.213,213.147 110.470,212.391 104.814,211.137 99.290,209.396 93.938,207.179 88.800,204.504 83.915,201.392"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="161.711,206.990 163.060,205.640"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="156.974,209.888 162.303,204.559"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="153.140,211.884 161.546,203.478"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="149.872,213.313 160.789,202.396"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="146.734,214.613 159.726,201.621"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="144.033,215.475 154.792,204.717"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="141.348,216.322 150.957,206.713"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="138.900,216.931 147.656,208.175"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="136.538,217.455 144.545,209.448"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="134.210,217.945 141.860,210.294"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="132.092,218.223 139.176,211.140"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="129.975,218.502 136.814,211.663"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="127.896,218.743 134.452,212.187"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="125.974,218.826 132.239,212.561"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="124.052,218.910 130.122,212.840"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="122.129,218.994 128.005,213.119"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="120.357,218.928 126.062,213.223"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="118.595,218.851 124.140,213.307"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="116.834,218.774 122.218,213.391"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="115.123,218.647 120.438,213.332"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="113.498,218.433 118.676,213.255"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="111.874,218.219 116.915,213.178"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="110.249,218.005 115.235,213.019"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="108.689,217.727 113.611,212.805"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="107.184,217.393 111.986,212.591"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="105.679,217.060 110.370,212.369"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="104.174,216.726 108.865,212.035"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="102.719,216.343 107.360,211.702"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="101.321,215.902 105.855,211.368"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="99.923,215.461 104.383,211.002"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="98.526,215.021 102.985,210.561"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="97.145,214.563 101.588,210.120"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="95.845,214.024 100.190,209.679"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="94.545,213.486 98.827,209.204"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="93.245,212.947 97.527,208.665"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="91.945,212.409 96.227,208.127"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="90.710,211.806 94.927,207.588"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="89.501,211.176 93.649,207.028"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="88.292,210.547 92.440,206.399"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="87.083,209.917 91.231,205.769"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="85.883,209.279 90.022,205.140"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="84.760,208.564 88.812,204.511"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="83.636,207.848 87.689,203.796"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="82.513,207.133 86.566,203.081"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="81.390,206.417 85.442,202.365"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="82.366,203.603 84.319,201.650"/>
+<polygon fill="none" stroke="#000" stroke-width="0.55" stroke-linejoin="round" points="76.000,201.000 168.000,201.000 168.000,141.000 76.000,141.000"/>
+<text x="122.000" y="167.500" font-size="3.4" text-anchor="middle" font-weight="bold">RAK4630</text>
+<text x="122.000" y="171.500" font-size="2.6" text-anchor="middle">nRF52840 + SX1262</text>
+<text x="122.000" y="175.200" font-size="2.1" text-anchor="middle">≈15×23 mm, h ≈3,0 — veri sayfasıyla doğrulanacak</text>
+<polygon fill="none" stroke="#000" stroke-width="0.55" stroke-linejoin="round" points="98.000,135.000 146.000,135.000 146.000,87.000 98.000,87.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.4 1.0" points="92.000,141.000 152.000,141.000 152.000,81.000 92.000,81.000 92.000,141.000"/>
+<text x="122.000" y="107.400" font-size="2.7" text-anchor="middle">GNSS yama anten</text>
+<text x="122.000" y="118.200" font-size="2.4" text-anchor="middle">12×12 (üst yüz!)</text>
+<text x="122.000" y="128.600" font-size="2.2" text-anchor="middle">keep-out 15×15</text>
+<polygon fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round" points="69.000,124.000 87.000,124.000 87.000,106.000 69.000,106.000"/>
+<polygon fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round" points="172.000,123.000 180.000,123.000 180.000,115.000 172.000,115.000"/>
+<polygon fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round" points="172.000,169.000 184.000,169.000 184.000,157.000 172.000,157.000"/>
+<circle cx="63.600" cy="159.000" r="12.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<polygon fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round" points="182.000,152.200 194.000,152.200 194.000,141.800 182.000,141.800"/>
+<polygon fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round" points="106.000,214.200 138.000,214.200 138.000,206.200 106.000,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="138.000,207.594 136.606,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="138.000,209.292 134.908,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="138.000,210.989 133.211,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="138.000,212.686 131.514,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="137.817,214.200 129.817,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="136.120,214.200 128.120,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="134.423,214.200 126.423,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="132.726,214.200 124.726,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="131.029,214.200 123.029,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="129.332,214.200 121.332,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="127.635,214.200 119.635,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="125.938,214.200 117.938,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="124.241,214.200 116.241,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="122.544,214.200 114.544,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="120.847,214.200 112.847,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="119.150,214.200 111.150,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="117.453,214.200 109.453,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="115.756,214.200 107.756,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="114.059,214.200 106.059,206.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="112.361,214.200 106.000,207.839"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="110.664,214.200 106.000,209.536"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="108.967,214.200 106.000,211.233"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="107.270,214.200 106.000,212.930"/>
+<polygon fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round" points="64.000,189.000 76.000,189.000 76.000,181.000 64.000,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="75.756,189.000 76.000,188.756"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="74.059,189.000 76.000,187.059"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="72.362,189.000 76.000,185.362"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="70.665,189.000 76.000,183.665"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="68.968,189.000 76.000,181.968"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="67.271,189.000 75.271,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="65.574,189.000 73.574,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="64.000,188.877 71.877,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="64.000,187.179 70.179,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="64.000,185.482 68.482,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="64.000,183.785 66.785,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="64.000,182.088 65.088,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="76.000,181.233 75.767,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="76.000,182.930 74.070,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="76.000,184.627 72.373,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="76.000,186.324 70.676,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="76.000,188.021 68.979,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="75.282,189.000 67.282,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="73.585,189.000 65.585,181.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="71.888,189.000 64.000,181.112"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="70.191,189.000 64.000,182.809"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="68.494,189.000 64.000,184.506"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="66.797,189.000 64.000,186.203"/>
+<polyline fill="none" stroke="#000" stroke-width="0.13" stroke-linecap="round" stroke-linejoin="round" points="65.100,189.000 64.000,187.900"/>
+<polyline fill="none" stroke="#000" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5.0 1.5" points="72.000,207.000 172.000,207.000 172.000,87.000 72.000,87.000 72.000,207.000"/>
+<circle cx="168.000" cy="187.000" r="2.800" fill="#000" stroke="#000" stroke-width="0.5"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="51.600,151.000 42.000,151.000"/>
+<circle cx="51.600" cy="151.000" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="41.000" y="151.720" font-size="2.4" text-anchor="end">titreşim motoru Ø6</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="42.000,152.080 18.272,152.080"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="70.000,111.000 42.000,121.000"/>
+<circle cx="70.000" cy="111.000" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="41.000" y="121.720" font-size="2.4" text-anchor="end">GNSS modülü</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="42.000,122.080 24.714,122.080"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="66.000,187.000 42.000,183.000"/>
+<circle cx="66.000" cy="187.000" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="41.000" y="183.720" font-size="2.4" text-anchor="end">pil bağlantısı</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="42.000,184.080 25.904,184.080"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="180.000,117.000 202.000,111.000"/>
+<circle cx="180.000" cy="117.000" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="203.000" y="111.720" font-size="2.4" text-anchor="start">LSM303AGR (2×2)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="202.000,112.080 225.134,112.080"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="194.000,147.000 202.000,137.000"/>
+<circle cx="194.000" cy="147.000" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="203.000" y="137.720" font-size="2.4" text-anchor="start">yan tuş mikro anahtarı (0°)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="202.000,138.080 235.414,138.080"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="184.000,165.000 202.000,163.000"/>
+<circle cx="184.000" cy="165.000" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="203.000" y="163.720" font-size="2.4" text-anchor="start">şarj / PMIC (3×3)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="202.000,164.080 223.105,164.080"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="134.000,213.400 160.000,226.500"/>
+<circle cx="134.000" cy="213.400" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="161.000" y="227.220" font-size="2.4" text-anchor="start">ekran FPC kon. (üst yüz)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="160.000,227.580 190.036,227.580"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="168.000,187.000 202.000,185.000"/>
+<circle cx="168.000" cy="187.000" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="203.000" y="185.720" font-size="2.4" text-anchor="start">868 MHz RF besleme noktası</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="202.000,186.080 237.507,186.080"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="172.000,87.000 202.000,79.000"/>
+<circle cx="172.000" cy="87.000" r="0.450" fill="#000" stroke="#000" stroke-width="0.1"/>
+<text x="203.000" y="79.720" font-size="2.4" text-anchor="start">pil 25×30 (altta, kesikli)</text>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="202.000,80.080 231.605,80.080"/>
+<circle cx="165.200" cy="87.800" r="3.000" fill="#fdfdfb" stroke="#000" stroke-width="0.5"/>
+<text x="165.200" y="88.800" font-size="3.0" text-anchor="middle" font-weight="bold">1</text>
+<circle cx="78.800" cy="204.600" r="3.000" fill="#fdfdfb" stroke="#000" stroke-width="0.5"/>
+<text x="78.800" y="205.600" font-size="3.0" text-anchor="middle" font-weight="bold">2</text>
+<circle cx="72.000" cy="96.600" r="3.000" fill="#fdfdfb" stroke="#000" stroke-width="0.5"/>
+<text x="72.000" y="97.600" font-size="3.0" text-anchor="middle" font-weight="bold">3</text>
+<circle cx="177.200" cy="210.200" r="3.000" fill="#fdfdfb" stroke="#000" stroke-width="0.5"/>
+<text x="177.200" y="211.200" font-size="3.0" text-anchor="middle" font-weight="bold">4</text>
+<circle cx="149.200" cy="213.400" r="3.000" fill="#fdfdfb" stroke="#000" stroke-width="0.5"/>
+<text x="149.200" y="214.400" font-size="3.0" text-anchor="middle" font-weight="bold">5</text>
+<circle cx="74.400" cy="159.000" r="3.000" fill="#fdfdfb" stroke="#000" stroke-width="0.5"/>
+<text x="74.400" y="160.000" font-size="3.0" text-anchor="middle" font-weight="bold">6</text>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="50.000,219.000 50.000,237.500"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="194.000,219.000 194.000,237.500"/>
+<polyline fill="none" stroke="#000" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round" points="50.000,236.000 194.000,236.000"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="50.000,236.000 52.200,236.750 52.200,235.250"/>
+<polygon fill="#000" stroke="#000" stroke-width="0.05" stroke-linejoin="round" points="194.000,236.000 191.800,235.250 191.800,236.750"/>
+<text x="122.000" y="238.900" font-size="2.8" text-anchor="middle">Ø36 kart (iç boşluk Ø36,8)</text>
+<polygon fill="#fdfdfb" stroke="#000" stroke-width="0.5" stroke-linejoin="round" points="254.000,10.000 408.000,10.000 408.000,74.800 254.000,74.800"/>
+<polyline fill="none" stroke="#000" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round" points="254.000,15.400 408.000,15.400"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="254.000,20.800 408.000,20.800"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="254.000,26.200 408.000,26.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="254.000,31.600 408.000,31.600"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="254.000,37.000 408.000,37.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="254.000,42.400 408.000,42.400"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="254.000,47.800 408.000,47.800"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="254.000,53.200 408.000,53.200"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="254.000,58.600 408.000,58.600"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="254.000,64.000 408.000,64.000"/>
+<polyline fill="none" stroke="#000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" points="254.000,69.400 408.000,69.400"/>
+<text x="255.200" y="13.672" font-size="2.5" text-anchor="start" font-weight="bold">Blok</text>
+<text x="255.200" y="19.072" font-size="2.3" text-anchor="start">RAK4630 (nRF52840+SX1262)</text>
+<text x="255.200" y="24.472" font-size="2.3" text-anchor="start">GNSS yama anten</text>
+<text x="255.200" y="29.872" font-size="2.3" text-anchor="start">GNSS yama keep-out</text>
+<text x="255.200" y="35.272" font-size="2.3" text-anchor="start">GNSS modülü</text>
+<text x="255.200" y="40.672" font-size="2.3" text-anchor="start">LSM303AGR</text>
+<text x="255.200" y="46.072" font-size="2.3" text-anchor="start">Şarj / PMIC</text>
+<text x="255.200" y="51.472" font-size="2.3" text-anchor="start">Titreşim motoru</text>
+<text x="255.200" y="56.872" font-size="2.3" text-anchor="start">Yan tuş anahtarı</text>
+<text x="255.200" y="62.272" font-size="2.3" text-anchor="start">Ekran FPC konnektörü</text>
+<text x="255.200" y="67.672" font-size="2.3" text-anchor="start">Pil bağlantısı</text>
+<text x="255.200" y="73.072" font-size="2.3" text-anchor="start">868 MHz RF besleme</text>
+<polyline fill="none" stroke="#000" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" points="304.000,10.000 304.000,74.800"/>
+<text x="305.200" y="13.672" font-size="2.5" text-anchor="start" font-weight="bold">Ölçü (plan, mm)</text>
+<text x="305.200" y="19.072" font-size="2.3" text-anchor="start">23 × 15</text>
+<text x="305.200" y="24.472" font-size="2.3" text-anchor="start">12 × 12 (12–15)</text>
+<text x="305.200" y="29.872" font-size="2.3" text-anchor="start">15 × 15</text>
+<text x="305.200" y="35.272" font-size="2.3" text-anchor="start">4,5 × 4,5</text>
+<text x="305.200" y="40.672" font-size="2.3" text-anchor="start">2 × 2</text>
+<text x="305.200" y="46.072" font-size="2.3" text-anchor="start">3 × 3</text>
+<text x="305.200" y="51.472" font-size="2.3" text-anchor="start">Ø6</text>
+<text x="305.200" y="56.872" font-size="2.3" text-anchor="start">3 × 2,6</text>
+<text x="305.200" y="62.272" font-size="2.3" text-anchor="start">8 × 2</text>
+<text x="305.200" y="67.672" font-size="2.3" text-anchor="start">3 × 2</text>
+<text x="305.200" y="73.072" font-size="2.3" text-anchor="start">nokta</text>
+<polyline fill="none" stroke="#000" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" points="342.000,10.000 342.000,74.800"/>
+<text x="343.200" y="13.672" font-size="2.5" text-anchor="start" font-weight="bold">Merkez x ; y</text>
+<text x="343.200" y="19.072" font-size="2.3" text-anchor="start">0 ; -6,0</text>
+<text x="343.200" y="24.472" font-size="2.3" text-anchor="start">0 ; 9</text>
+<text x="343.200" y="29.872" font-size="2.3" text-anchor="start">0 ; 9</text>
+<text x="343.200" y="35.272" font-size="2.3" text-anchor="start">-11 ; 8</text>
+<text x="343.200" y="40.672" font-size="2.3" text-anchor="start">13,5 ; 7</text>
+<text x="343.200" y="46.072" font-size="2.3" text-anchor="start">14 ; -4</text>
+<text x="343.200" y="51.472" font-size="2.3" text-anchor="start">-14,6 ; -3</text>
+<text x="343.200" y="56.872" font-size="2.3" text-anchor="start">16,5 ; 0</text>
+<text x="343.200" y="62.272" font-size="2.3" text-anchor="start">0 ; -15,8</text>
+<text x="343.200" y="67.672" font-size="2.3" text-anchor="start">-13 ; -9,5</text>
+<text x="343.200" y="73.072" font-size="2.3" text-anchor="start">11,5 ; -10</text>
+<polyline fill="none" stroke="#000" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" points="368.000,10.000 368.000,74.800"/>
+<text x="369.200" y="13.672" font-size="2.5" text-anchor="start" font-weight="bold">Durum</text>
+<text x="369.200" y="19.072" font-size="2.3" text-anchor="start">doğrulanacak</text>
+<text x="369.200" y="24.472" font-size="2.3" text-anchor="start">doğrulanacak</text>
+<text x="369.200" y="29.872" font-size="2.3" text-anchor="start">varsayım</text>
+<text x="369.200" y="35.272" font-size="2.3" text-anchor="start">doğrulanacak</text>
+<text x="369.200" y="40.672" font-size="2.3" text-anchor="start">doğrulanacak</text>
+<text x="369.200" y="46.072" font-size="2.3" text-anchor="start">varsayım</text>
+<text x="369.200" y="51.472" font-size="2.3" text-anchor="start">varsayım</text>
+<text x="369.200" y="56.872" font-size="2.3" text-anchor="start">varsayım</text>
+<text x="369.200" y="62.272" font-size="2.3" text-anchor="start">varsayım</text>
+<text x="369.200" y="67.672" font-size="2.3" text-anchor="start">varsayım</text>
+<text x="369.200" y="73.072" font-size="2.3" text-anchor="start">doğrulanacak</text>
+<text x="254.000" y="80.800" font-size="2.9" text-anchor="start" font-weight="bold">ÇAKIŞMA / AÇIK RİSK İŞARETLERİ (çizimdeki numaralı daireler)</text>
+<circle cx="256.500" cy="85.100" r="2.100" fill="#fdfdfb" stroke="#000" stroke-width="0.4"/>
+<text x="256.500" y="86.000" font-size="2.4" text-anchor="middle" font-weight="bold">1</text>
+<text x="260.500" y="86.000" font-size="2.3" text-anchor="start">GNSS yama anten ekranın/camın ALTINDA kalıyor: gökyüzü görüşü ve ITO/metal gölgesi (spec riski).</text>
+<text x="260.500" y="89.700" font-size="2.3" text-anchor="start">Keep-out köşeleri kart kenarına değiyor (r≈18,1). Alternatif: yama kenara/kayışa ya da üst yüze açık pencere.</text>
+<circle cx="256.500" cy="94.000" r="2.100" fill="#fdfdfb" stroke="#000" stroke-width="0.4"/>
+<text x="256.500" y="94.900" font-size="2.4" text-anchor="middle" font-weight="bold">2</text>
+<text x="260.500" y="94.900" font-size="2.3" text-anchor="start">868 MHz anten kartta YOK: λ/4 ≈ 86 mm. Yalnız RF besleme noktası ve alt kenar keep-out bandı</text>
+<text x="260.500" y="98.600" font-size="2.3" text-anchor="start">ayrıldı (taranmış bölge); RAK4630 köşeleri bu banda giriyor. Anten: kayış/askı içi veya FPC çevre anteni.</text>
+<circle cx="256.500" cy="102.900" r="2.100" fill="#fdfdfb" stroke="#000" stroke-width="0.4"/>
+<text x="256.500" y="103.800" font-size="2.4" text-anchor="middle" font-weight="bold">3</text>
+<text x="260.500" y="103.800" font-size="2.3" text-anchor="start">GNSS girişi (1575 MHz) ile 868 MHz RAK4630 aynı bölgede: karışma/gürültü payı doğrulanmadı.</text>
+<circle cx="256.500" cy="108.100" r="2.100" fill="#fdfdfb" stroke="#000" stroke-width="0.4"/>
+<text x="256.500" y="109.000" font-size="2.4" text-anchor="middle" font-weight="bold">4</text>
+<text x="260.500" y="109.000" font-size="2.3" text-anchor="start">Pil 25×30 (kesikli): köşegen 39,1 &gt; iç Ø36,8 — SIĞMAZ. ≤22×28 pil veya kesik köşe gerekir;</text>
+<text x="260.500" y="112.700" font-size="2.3" text-anchor="start">RAK4630 (h 3,0) ile pil arasında düşey boşluk da 0 mm (yığın hedefi).</text>
+<circle cx="256.500" cy="117.000" r="2.100" fill="#fdfdfb" stroke="#000" stroke-width="0.4"/>
+<text x="256.500" y="117.900" font-size="2.4" text-anchor="middle" font-weight="bold">5</text>
+<text x="260.500" y="117.900" font-size="2.3" text-anchor="start">Ekran FPC konnektörü (üst yüz) yüksekliği 0,6 mm orta çerçeve payına sığmayabilir.</text>
+<text x="260.500" y="121.600" font-size="2.3" text-anchor="start">Konnektör RAK4630 kenarına yalnız 1,3 mm; kablo kıvrımı doğrulanacak.</text>
+<circle cx="256.500" cy="125.900" r="2.100" fill="#fdfdfb" stroke="#000" stroke-width="0.4"/>
+<text x="256.500" y="126.800" font-size="2.4" text-anchor="middle" font-weight="bold">6</text>
+<text x="260.500" y="126.800" font-size="2.3" text-anchor="start">Titreşim motoru ile RAK4630 arası 0,1 mm; motor ve yan tuş mıknatıssal etkisi pusula için ölçülecek.</text>
+<text x="254.000" y="133.000" font-size="2.3" text-anchor="start">Bu çizim bir yerleşim ÖNERİSİDİR: şema, ağ listesi, katman dizilimi ve gerber yoktur. Konumlar</text>
+<text x="254.000" y="136.600" font-size="2.3" text-anchor="start">kullanıcı onayıyla ve bileşen veri sayfalarıyla yeniden çizilecektir. Tüm değerler hedef/varsayımdır.</text>
+</svg>

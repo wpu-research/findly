@@ -1,0 +1,16 @@
+{
+  "exported_at_utc": "2026-11-03T17:08:42.938682+00:00",
+  "session_id": "01a1a215-26f6-7b32-a8b0-49a05d3cb88a",
+  "source_log": "/home/wpu/.codex/sessions/2026/11/03/rollout-2026-11-03T17-44-17-01a1a215-26f6-7b32-a8b0-49a05d3cb88a.jsonl",
+  "messages_in_session": 39,
+  "messages_in_archive": 39,
+  "tool_records": 68,
+  "prompts": 4,
+  "excluded_record_types": [
+    "reasoning",
+    "session_meta",
+    "turn_context",
+    "developer",
+    "system"
+  ]
+}
